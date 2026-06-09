@@ -1,0 +1,23 @@
+[08:02:24] [Server thread/INFO]: Preparing level "world"
+[08:02:42] [Server thread/INFO]: Preparing start region for dimension minecraft:
+overworld
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:02:45] [Server thread/INFO]: Time elapsed: 3830 ms
+[08:02:45] [Server thread/INFO]: Done (21.086s)! For help, type "help"
+[08:02:46] [Server thread/WARN]: [voicechat] Running in offline mode - Voice cha
+t encryption is not secure!
+[08:02:46] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'analysis-umb
+ilical.gl.at.ply.gg:62514'
+[08:02:46] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started a
+t port 24454
+[08:02:46] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[08:02:46] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+list
+[17:18:32] [Server thread/INFO]: There are 0 of a max of 20 players online:
